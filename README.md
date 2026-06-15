@@ -1,2 +1,2 @@
 # MasterThesis
-Official Github Repository for the "Can Generative AI Replace Therapy? Evaluating Empathy and Content in Mental Health Conversations" Master Thesis by Finn Franken.
+Official Github Repository for the "Dimensions of Empathy in AI-Mediated Mental Health Communication" Master Thesis by Finn Franken.
